@@ -1,0 +1,28 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-clor{
+    background-color: #FEEAE9;
+}
+.carousel-item img{
+    width: 100%;
+}
+.carousel-item h2{
+    color: #F22976;
+}
+.carousel-item{
+    border-radius: 10px;
+    padding: 20px 0;
+}
+.pd{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.buy-now-button{
+    background: #F22976;
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
