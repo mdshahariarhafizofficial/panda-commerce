@@ -44,3 +44,12 @@
 .cat-3{
     background: #0000FF;
 }
+.card-edit{
+    border: none;
+    box-shadow: 8px 8px 30px rgba(185, 179, 179, 0.747);
+    border-radius: 10px;
+}
+.card-footer{
+    background: white;
+    border: none;
+}
