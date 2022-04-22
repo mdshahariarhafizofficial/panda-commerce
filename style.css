@@ -1,4 +1,6 @@
-.container{
+.container-main{
+    max-width: 1110px;
+    margin: 0 auto;
     margin-bottom: 100px;
 }
 .bg-clor{
@@ -12,17 +14,33 @@
 }
 .carousel-item{
     border-radius: 10px;
-    padding: 20px 0;
 }
 .pd{
-    padding-left: 20px;
+    padding-left: 40px;
     padding-right: 20px;
 }
 .buy-now-button{
     background: #F22976;
     color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.img-sm{
+    width: 100px;
 }
 
-.categories img{
-    width: 100px;
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.cat-1{
+    background: #FFA500;
+}
+.cat-2{
+    background: #DA70D6;
+}
+.cat-3{
+    background: #0000FF;
 }
